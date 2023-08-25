@@ -3,7 +3,6 @@ Keeping up with the seasonal releases of new anime is mentally exhausting. I wan
 
 * Which types are made the most?
 * How do people rate what they watch?
-* Which genres are the most popular?
 
 Maybe in the future, I could create a recommender.
 
